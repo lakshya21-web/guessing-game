@@ -1,5 +1,5 @@
 # codecraft_SD_02
-A simple number guessing game built in Python.
+
 import random
 
 def guessing_game():
@@ -25,3 +25,4 @@ def guessing_game():
 
 # Run the game
 guessing_game()
+
